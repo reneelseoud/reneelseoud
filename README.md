@@ -1,4 +1,4 @@
-<b>whoami</b>
+<b>~$ whoami</b>
 - 👋 Hi, I’m @reneelseoud
 - 👀 I’m new to cybersecurity
 - 📖 I’m currently learning Cybersecurity by Google
