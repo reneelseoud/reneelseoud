@@ -5,6 +5,7 @@
 - 📫 You can reach me at https://www.linkedin.com/in/reneelseoud/
 
 <b>Certifications Completed</b>
+- Foundations of Cbersecurity | Google
 - IT-Security-Manager | TÜV Rheinland Group
 - IT-Security-Beauftragter | TÜV Rheinland Group
 - Datenschutzauditor | TÜV Rheinland Group
